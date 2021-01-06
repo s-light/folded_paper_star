@@ -7,7 +7,10 @@
 
 - [instructions](#instructions)
 	- [fold base part](#fold-base-part)
-	- [prepare assembly](#prepare-assembly)
+	- [assembly one tip](#assembly-one-tip)
+	- [assembly ring with five tips](#assembly-ring-with-five-tips)
+	- [prepare final assembly](#prepare-final-assembly)
+	- [final assembly star](#final-assembly-star)
 
 <!-- /TOC -->
 
@@ -71,4 +74,45 @@ the paper has to be square - i used 140mm - this way you can cut two peaces out 
     it will open up a little bit - that is fine - this is the *in-between space* for two star-tips..
     ![Step 16](images/fold_base_part/P1750946.JPG)
 
-## prepare assembly
+## assembly one tip
+now use three of the base parts to create a tip.
+only after you have interweaved all three the structure is stable.
+before this they easily come apart again..
+
+in the same way you can now prepare in total 4 tips.
+
+![assembly tip](images/02_assembly_tip/P1750949.JPG)
+![assembly tip](images/02_assembly_tip/P1750950.JPG)
+![assembly tip](images/02_assembly_tip/P1750951.JPG)
+![assembly tip](images/02_assembly_tip/P1750952.JPG)
+![assembly tip](images/02_assembly_tip/P1750953.JPG)
+![assembly tip](images/02_assembly_tip/P1750954.JPG)
+![assembly tip](images/02_assembly_tip/P1750955.JPG)
+![assembly tip](images/02_assembly_tip/P1750956.JPG)
+![assembly tip](images/02_assembly_tip/P1750957.JPG)
+![assembly tip](images/02_assembly_tip/P1750958.JPG)
+![assembly tip](images/02_assembly_tip/P1750959.JPG)
+
+
+
+## assembly ring with five tips
+now with two tips and * base parts you can form a ring of five tips
+we need a total of two rings (one for bottom and one for top)
+
+![assembly ring](images/03_assembly_ring_with_five_tips/P1750960.JPG)
+![assembly ring](images/03_assembly_ring_with_five_tips/P1750961.JPG)
+![assembly ring](images/03_assembly_ring_with_five_tips/P1750962.JPG)
+![assembly ring](images/03_assembly_ring_with_five_tips/P1750963.JPG)
+![assembly ring](images/03_assembly_ring_with_five_tips/P1750964.JPG)
+![assembly ring](images/03_assembly_ring_with_five_tips/P1750965.JPG)
+
+## prepare final assembly
+now we can prepare for the final assembly.
+for this use the 10 base parts left.
+and combine pairs of them.
+
+
+
+
+## final assembly star
+now we can do the final assembly.
