@@ -9,8 +9,7 @@
 	- [fold base part](#fold-base-part)
 	- [assembly one tip](#assembly-one-tip)
 	- [assembly ring with five tips](#assembly-ring-with-five-tips)
-	- [prepare final assembly](#prepare-final-assembly)
-	- [final assembly star](#final-assembly-star)
+	- [final assembly](#final-assembly)
 
 <!-- /TOC -->
 
@@ -106,13 +105,22 @@ we need a total of two rings (one for bottom and one for top)
 ![assembly ring](images/03_assembly_ring_with_five_tips/P1750964.JPG)
 ![assembly ring](images/03_assembly_ring_with_five_tips/P1750965.JPG)
 
-## prepare final assembly
+## final assembly
 now we can prepare for the final assembly.
 for this use the 10 base parts left.
 and combine pairs of them.
 
-
-
-
-## final assembly star
 now we can do the final assembly.
+
+![assembly star](images/04_assembly_star/P1750966.JPG)
+![assembly star](images/04_assembly_star/P1750968.JPG)
+![assembly star](images/04_assembly_star/P1750969.JPG)
+![assembly star](images/04_assembly_star/P1750970.JPG)
+![assembly star](images/04_assembly_star/P1750971.JPG)
+![assembly star](images/04_assembly_star/P1750972.JPG)
+![assembly star](images/04_assembly_star/P1750973.JPG)
+
+done :-)
+![done :-)](images/P1750977_crop_small.jpg)
+
+happy folding!
