@@ -14,7 +14,10 @@
      version="1.1"
      id="svg8"
      inkscape:version="1.0.1 (1.0.1+r74)"
-     sodipodi:docname="tip1_sheet1.svg">
+     sodipodi:docname="tip1_sheet1.svg"
+     inkscape:export-filename="tip1_sheet1.png"
+     inkscape:export-xdpi="181.42999"
+     inkscape:export-ydpi="181.42999">
     <title
          id="title1061">folded paper star - analyse visible areas</title>
     <defs
@@ -26,11 +29,11 @@
          borderopacity="1"
          inkscape:pageopacity="0.0"
          inkscape:pageshadow="2"
-         inkscape:zoom="3.3961161"
+         inkscape:zoom="1.6574256"
          inkscape:cx="264.56693"
          inkscape:cy="264.56693"
          inkscape:document-units="mm"
-         inkscape:current-layer="layer2"
+         inkscape:current-layer="layer5"
          inkscape:document-rotation="0"
          showgrid="false"
          inkscape:window-width="3840"
@@ -57,6 +60,10 @@
              inkscape:label="center_horizontal"
              inkscape:locked="true"
              inkscape:color="rgb(0,0,255)" />
+        <sodipodi:guide
+             position="10.369505,143.85643"
+             orientation="1,0"
+             id="guide3605" />
     </sodipodi:namedview>
     <metadata
          id="metadata5">
@@ -103,13 +110,13 @@
         </rdf:RDF>
     </metadata>
     <g
-         inkscape:label="scann_inside"
+         inkscape:label="scan_side_1"
          inkscape:groupmode="layer"
          id="layer1"
          sodipodi:insensitive="true"
          style="display:inline">
         <image
-             sodipodi:absref="scan_tip1_sheet1_side1__color_interweaving.png"
+             sodipodi:absref="/home/stefan/mydata/github/folded_paper_star/images/analyse/scan_tip1_sheet1_side1__color_interweaving.png"
              xlink:href="scan_tip1_sheet1_side1__color_interweaving.png"
              y="-0.1732714"
              x="-0.12798958"
@@ -122,18 +129,637 @@
     <g
          inkscape:groupmode="layer"
          id="layer2"
-         inkscape:label="scan_outside"
-         style="display:inline;opacity:1">
+         inkscape:label="scan_side_2"
+         style="display:inline;opacity:0.5"
+         sodipodi:insensitive="true">
         <image
-             sodipodi:absref="scan_tip1_sheet1_side2__color_interweaving.png"
+             sodipodi:absref="/home/stefan/mydata/github/folded_paper_star/images/analyse/scan_tip1_sheet1_side2__color_interweaving.png"
              xlink:href="scan_tip1_sheet1_side2__color_interweaving.png"
-             transform="scale(-1,1)"
-             y="-0.28138202"
-             x="-139.78491"
+             transform="scale(1,-1)"
+             y="-140.09344"
+             x="-0.21508789"
              id="image1110"
              style="stroke-width:1.01645;image-rendering:optimizeQuality"
              preserveAspectRatio="none"
              height="140.37483"
              width="140" />
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer5"
+         inkscape:label="scan_side_1_textoverlay"
+         sodipodi:insensitive="true">
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="13.1186"
+             y="92.634529"
+             id="text916"><tspan
+                 sodipodi:role="line"
+                 id="tspan914"
+                 x="13.1186"
+                 y="92.634529"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t2s2.2</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="8.550437"
+             y="77.414871"
+             id="text916-3"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-6"
+                 x="8.550437"
+                 y="77.414871"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t2s1.5</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="121.24382"
+             y="66.531174"
+             id="text916-7"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-5"
+                 x="121.24382"
+                 y="66.531174"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t1s1.5</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="116.5304"
+             y="50.591274"
+             id="text916-35"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-62"
+                 x="116.5304"
+                 y="50.591274"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t1s2.2</tspan></text>
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer6"
+         inkscape:label="scan_side_2_textoverlay"
+         sodipodi:insensitive="true">
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="150.95737"
+             y="-25.902718"
+             id="text916-9-0"
+             transform="rotate(46.240792)"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-1-9"
+                 x="150.95737"
+                 y="-25.902718"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t1s1.4</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="134.35542"
+             y="72.038414"
+             id="text916-9-3"
+             transform="rotate(12.885457)"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-1-6"
+                 x="134.35542"
+                 y="72.038414"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t2s1.1</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="83.849297"
+             y="-4.2581358"
+             id="text916-9-06"
+             transform="rotate(10.506592)"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-1-2"
+                 x="83.849297"
+                 y="-4.2581358"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t1s2.6</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="87.796959"
+             y="3.9014556"
+             id="text916-9-6"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-1-1"
+                 x="87.796959"
+                 y="3.9014556"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t1s3.3</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="32.439507"
+             y="17.63562"
+             id="text916-9-0-8"
+             transform="rotate(46.24079)"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-1-9-7"
+                 x="32.439507"
+                 y="17.63562"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t1s1.1</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="8.3390503"
+             y="48.002895"
+             id="text916-9-3-9"
+             transform="rotate(8.3177342)"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-1-6-2"
+                 x="8.3390503"
+                 y="48.002895"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t2s1.4</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="52.674965"
+             y="125.81924"
+             id="text916-9-06-0"
+             transform="rotate(3.3183751)"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-1-2-2"
+                 x="52.674965"
+                 y="125.81924"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t2s2.6</tspan></text>
+        <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;line-height:100%;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="29.468271"
+             y="141.39453"
+             id="text916-9-6-3"
+             transform="rotate(-4.278126)"
+             inkscape:transform-center-x="4.7757916"
+             inkscape:transform-center-y="-4.3395688"><tspan
+                 sodipodi:role="line"
+                 id="tspan914-1-1-7"
+                 x="29.468271"
+                 y="141.39453"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.99999px;font-family:Overlock;-inkscape-font-specification:'Overlock Bold';stroke-width:0.264583">t2s3.3</tspan></text>
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer4"
+         inkscape:label="folds_FreeCAD"
+         style="display:none">
+        <g
+             id="g1543"
+             transform="matrix(0.1,0,0,0.1,-80,-80)">
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect17"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 2200,1500 v 400 300 H 1500 900 800 V 1500 800 h 700 300 300 100 V 1100 1351.208 1500"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path13"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <path
+                 d="m 1500,800 300,700 -300,700 -300,-700 300,-700"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path21"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect25"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1500,800 1200,1500 993.103,1982.759 900,2200 H 800 v -700 l 700,-700"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path29"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect33"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1500,800 800,1500 V 800 h 700"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path37"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect41"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 2200,1900 v 300 H 1500 L 1919.536,1780.464 2200,1900"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path45"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect49"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1200,1500 1500,2200 993.103,1982.759 1200,1500"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path53"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect57"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1800,1500 1500,2200 1919.536,1780.464 2000,1700 2200,1500 h -400"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path61"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect65"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1500,800 214.286,214.286 85.714,-85.715 206.897,88.67 -93.104,217.242 L 1800,1500 1500,800"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path69"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect73"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 2100,800 h 100 v 300 l -125.29,134.483 H 1913.793 L 2006.897,1017.241 2100,800"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path77"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect81"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 2200,1100 v 251.208 L 1800,1500 1913.793,1234.483 H 2074.71 L 2200,1100"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path85"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect89"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 993.103,1982.759 1500,2200 H 900 l 93.103,-217.241"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path93"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect97"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1800,800 h 300 L 2006.897,1017.241 1800,928.571 V 800"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path101"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect105"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 2200,1500 v 400 l -200,-200 200,-200"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path109"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect113"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 2200,1500 V 1351.208 L 1800,1500 h 400"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path117"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect121"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1800,800 V 928.571 L 1500,800 h 300"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path125"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect129"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1714.286,1014.286 1800,928.571 1500,800 l 214.286,214.286"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path133"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect137"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 2200,1900 -200,-200 -80.464,80.464 L 2200,1900"
+                 vector-effect="non-scaling-stroke"
+                 fill-rule="evenodd"
+                 id="path141"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:#000000;fill-opacity:0;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel" />
+            <rect
+                 y="1500"
+                 x="1500"
+                 height="0"
+                 width="0"
+                 id="rect145"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 800,800 H 2200"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path149"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 2200,800 V 2200"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path153"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 2200,2200 H 800"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path157"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 800,2200 V 800"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path161"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1500,800 300,700"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path165"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1500,800 506.897,217.241"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path169"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1500,800 800,1500"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path173"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 993.103,1982.759 1500,2200"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path177"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1200,1500 300,700"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path181"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1500,2200 700,-700"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path185"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 800,2200 H 900"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path189"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 2100,800 1500,2200"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path193"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 2100,800 h 100"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path197"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1500,800 h 600"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path201"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 800,800 h 700"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path205"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1500,800 900,2200"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path209"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 900,2200 h 600"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path213"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1500,2200 h 700"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path217"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1800,1500 h 400"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path221"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 2200,1500 V 1351.208"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path225"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 2200,1351.208 1800,1500"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path229"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1800,1500 113.793,-265.517"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path233"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1913.793,1234.483 H 2074.71"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path237"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 2074.71,1234.483 2200,1100"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path241"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 2200,1100 v 251.208"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path245"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 2200,1500 v 400"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path249"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 2200,1900 2000,1700"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path253"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1919.536,1780.464 2000,1700"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path257"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 2200,1900 1919.536,1780.464"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path261"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 2000,1700 200,-200"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path265"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1500,800 h 300"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path269"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1800,800 V 928.571"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path273"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1800,928.571 1500,800"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path277"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="m 1500,800 214.286,214.286"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path281"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+            <path
+                 d="M 1714.286,1014.286 1800,928.571"
+                 vector-effect="none"
+                 fill-rule="evenodd"
+                 id="path285"
+                 style="font-style:normal;font-weight:400;font-size:42.3333px;font-family:'Noto Sans';fill:none;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:1" />
+        </g>
+    </g>
+    <g
+         inkscape:groupmode="layer"
+         id="layer3"
+         inkscape:label="folds_side_2"
+         style="display:none">
+        <path
+             style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             d="M 69.999999,0 10,140"
+             id="path3585"
+             sodipodi:nodetypes="cc" />
+        <path
+             style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             d="M 130,0 70,140"
+             id="path3585-3"
+             sodipodi:nodetypes="cc" />
+        <path
+             style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             d="m 100.07182,69.999999 0.98654,-70.05704146"
+             id="path3607" />
+        <path
+             style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             d="m 100.65782,37.900844 27.87149,0.0496"
+             id="path3609" />
     </g>
 </svg>

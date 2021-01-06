@@ -6,12 +6,15 @@ folded Star
 
 ![star](images/P1750919_crop_small.jpg)
 
+check out the [folding instructions](fold.md)
+
+i also started to analyze what parts of the paper-sheet end up on what areas of the tip-sides..
+most of the results currently can be found in the [analyze.md document](analyze.md).
+
 # TODO
-- take photos of steps for folding...
-- analyze visible areas
 - create template & helper tool for mapping images onto visible areas
 
-## research
+
 
 
 

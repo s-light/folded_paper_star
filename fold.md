@@ -3,6 +3,14 @@
 
 # instructions
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [instructions](#instructions)
+	- [fold base part](#fold-base-part)
+	- [prepare assembly](#prepare-assembly)
+
+<!-- /TOC -->
+
 ## fold base part
 we need this part 30x
 
@@ -62,3 +70,5 @@ the paper has to be square - i used 140mm - this way you can cut two peaces out 
 - Step 16
     it will open up a little bit - that is fine - this is the *in-between space* for two star-tips..
     ![Step 16](images/fold_base_part/P1750946.JPG)
+
+## prepare assembly
